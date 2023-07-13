@@ -18,4 +18,8 @@
 Go to report folder and download. Open the HTML file.
 
 
+https://github.com/AlperenDirik/AirTest-HeadBall2-Missions/assets/95375876/4d3812b3-ca41-41ad-8930-be2761c0a723
+
+
+
 > I will continue when I find creative cases and  try to other components.
