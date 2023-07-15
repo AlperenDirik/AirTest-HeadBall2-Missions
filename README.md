@@ -16,7 +16,10 @@
 13. Quit
 ### Report
 Go to report folder and download. Open the HTML file.
+![image](https://github.com/AlperenDirik/AirTest-HeadBall2-Missions/assets/95375876/f864eccc-4576-4bad-9a1d-553d92a6f78f)
+![image](https://github.com/AlperenDirik/AirTest-HeadBall2-Missions/assets/95375876/d1d51dc7-202b-4dd4-811a-a5dad11ee179)
 
+### AUTOMATION
 
 https://github.com/AlperenDirik/AirTest-HeadBall2-Missions/assets/95375876/4d3812b3-ca41-41ad-8930-be2761c0a723
 
