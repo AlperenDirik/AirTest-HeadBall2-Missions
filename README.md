@@ -23,30 +23,30 @@ Go to report folder and download. Open the HTML file.
 1. Daily Quest Test:
 In this test scenario, we will verify the user's ability to complete daily quests and receive rewards accurately.
 
--Log in to the game.
--Open the list of daily quests.
--Click on a daily quest and ensure its completion.
--Confirm that the quest has been completed.
--Check if the reward is properly added to the user's account.
+- Log in to the game.
+- Open the list of daily quests.
+- Click on a daily quest and ensure its completion.
+- Confirm that the quest has been completed.
+- Check if the reward is properly added to the user's account.
 
 2. Matchmaking Time Prediction:
 In this test scenario, we will conduct a test to estimate the average matchmaking time for the player.
 
--Log in to the game.
--Go to the matchmaking screen.
--Click the match find button ten times.
--Record the matchmaking time for each attempt.
--Calculate the average matchmaking time after ten tries and check if it falls within an acceptable range.
+- Log in to the game.
+- Go to the matchmaking screen.
+- Click the match find button ten times.
+- Record the matchmaking time for each attempt.
+- Calculate the average matchmaking time after ten tries and check if it falls within an acceptable range.
 
 3. Profile Badge Change Test:
 In this test scenario, we will verify if the player's profile badges change correctly when they complete a specific task.
 
--Log in to the game.
--Check the user's current profile badges.
--Create conditions for completing a specific task.
--Complete the task.
--Update the player's profile badges.
--Verify the accuracy of the changed badges.
+- Log in to the game.
+- Check the user's current profile badges.
+- Create conditions for completing a specific task.
+- Complete the task.
+- Update the player's profile badges.
+- Verify the accuracy of the changed badges.
 
 
 
